@@ -1,0 +1,150 @@
+header {
+    margin-top: -2%;
+    padding-top: 0%;
+    background: linear-gradient(to right, #9d9d9d9d, #ffff)
+
+
+
+}
+#texto1 {
+    color: #000;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+#texto2 {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 100px;
+
+}
+
+#logoif {
+    float: right;
+    height: 60px;
+    margin-left: auto;
+    margin-top: -80px;
+
+}
+
+#linkPag2 {
+    color: #00d9ff;
+    font-size: 17px;
+
+
+}
+
+body {
+    background-color: #333;
+
+}
+
+#texto3 {
+    color: #FFF;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+#textao1 {
+    color: #00d9ff;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#paraAW {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+#textodocente {
+    color: #00d9ff;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#Dany {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+#textao2 {
+    color: #00d9ff;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+footer {
+    padding: 10px;
+    margin: 0%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #9d9d9d9d, #FFF)
+
+}
+
+#logoif2 {
+    margin-left: auto;
+    height: 100px;
+
+}
+
+#logoif2, #rdp {
+    height: 70px;
+
+}
+
+#sm { 
+    color: #000;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
+
+#marcelo {
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#jota {
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+#padre {
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+#davi {
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+#ruan {
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+
+}
